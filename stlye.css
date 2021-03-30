@@ -1,0 +1,61 @@
+.container{
+    margin-top: 50px;
+    width: 1200px;
+    background-color: rgb(241, 137, 46);
+}
+body{
+    background-color: rgb(179, 129, 85);
+}
+th{
+    background-color: rgb(122, 65, 14);
+    text-align: center;
+    border: 2px solid black;
+    color:white;
+
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(241, 220, 241);
+}
+
+#r{
+    color: red;
+}
+
+#right{
+    text-align: right;
+}
+
+#dec{
+    text-decoration: underline black 1px;
+}
+#cap{
+    text-transform: capitalize;
+}
+
+#behuz{
+    text-indent: 50px;
+    text-align: justify;
+}
+
+#ls{
+    letter-spacing: 4px;
+}
+
+#ws{
+    word-spacing: -10px;
+}
+
+#shadow{
+    text-shadow: 1px 1px red;
+}
+
+#size{
+    font-size: larger;
+}
+
+#weight{
+    font-weight: bold;
+}
